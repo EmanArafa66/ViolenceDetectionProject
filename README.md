@@ -35,8 +35,8 @@ The video of the project can be found [here](https://drive.google.com/file/d/1SS
     <sub><b> YossefRamadan </b></sub></a>
     </td>
     <td align="center">
-    <a href="https://github.com/Nehal12-hammam" target="_black">
-    <img src="https://avatars.githubusercontent.com/u/40439659?v=4" width="100px;" alt="Nehal12-hammam"/>
+    <a href="https://github.com/Heba2424" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/40439659?v=4" width="100px;" alt="HebaMohsen"/>
     <br />
     <sub><b>Nehal12-hammam</b></sub></a>
     </td>
